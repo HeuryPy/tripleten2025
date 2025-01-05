@@ -2,6 +2,7 @@
 definindo um cabeçalho
 
 '''
+import pandas as pd
 import scipy.stats
 import streamlit as st
 import time
