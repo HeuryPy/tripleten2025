@@ -1,3 +1,7 @@
+'''importando a biblioteca streamlit
+definindo um cabeçalho
+escrevendo uma linha
+'''
 import streamlit as st
 
 st.header('Jogando uma moeda')
